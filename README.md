@@ -1,3 +1,5 @@
+![Symphony Parallax](docs/assets/parallax-logo.png)
+
 # Symphony Parallax Releases
 
 Public documentation and release repository for Symphony Parallax, the cloud-scale consensus orchestration product in the K Means AI Symphony suite.
