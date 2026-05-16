@@ -1,8 +1,8 @@
-![Symphony Parallax](docs/assets/parallax-logo.png)
+![Symphony Parallax™](docs/assets/parallax-logo.png)
 
-# Symphony Parallax Releases
+# Symphony Parallax™ Releases
 
-Public documentation and release repository for Symphony Parallax, the cloud-scale consensus orchestration product in the K Means AI Symphony suite.
+Public documentation and release repository for Symphony Parallax™, the cloud-scale consensus orchestration product in the K Means AI Symphony suite.
 
 Parallax extends the Symphony approach **from the console to the cloud**. Symphony Maestro provides a local, terminal-driven workflow for multi-model collaboration. Parallax brings the same family of ideas into durable cloud infrastructure: queue-driven operation dispatch, tenant-aware status tracking, model orchestration, traceable results, and scalable processor execution.
 
@@ -12,7 +12,7 @@ Learn more at [kmeans.ai](https://kmeans.ai). Symphony Maestro releases are main
 
 ## License Notice
 
-Symphony Parallax is proprietary software.
+Symphony Parallax™ is proprietary software.
 
 Copyright (C) K MEANS AI LLC. All rights reserved.
 
