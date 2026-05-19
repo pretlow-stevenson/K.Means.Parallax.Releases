@@ -60,6 +60,14 @@ If the threshold is met, Parallax returns a final answer. If the threshold is no
 
 Use it for fast validation.
 
+## Signaling And Traceability
+
+Parallax captures lightweight participant signals during orchestration. Signals summarize whether model participants completed their work, aligned with the emerging result, or could not confidently proceed. This gives operators a compact view of how the consensus process evolved without requiring full access to raw model responses.
+
+Signals appear in operation status and trace metadata alongside state, confidence, timing, and result information. They are especially useful for cloud operations because they help distinguish a successful consensus, a failed confirmation, and a prompt that could not be interpreted reliably.
+
+Publicly, the important idea is simple: Parallax does more than collect several model answers. It tracks the state of the collaboration so the final result can be reviewed, audited, and operated at scale.
+
 ## How It Fits With Symphony
 
 Symphony has two complementary paths:
