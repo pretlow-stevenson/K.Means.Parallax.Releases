@@ -8,7 +8,7 @@ Parallax extends the Symphony approach **from the console to the cloud**. Sympho
 
 Use Parallax when you need multiple independent model perspectives, an integrator-driven final answer, repeatable consensus workflows, and cloud operations that can be dispatched, tracked, retried, and scaled.
 
-Learn more at [kmeans.ai](https://kmeans.ai). Symphony Maestro releases are maintained separately at [K.Means.Symphony.Releases](https://github.com/pretlow-stevenson/K.Means.Symphony.Releases).
+Learn more at [kmeans.ai](https://kmeans.ai).
 
 ## License Notice
 
